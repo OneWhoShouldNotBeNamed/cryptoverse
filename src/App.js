@@ -52,7 +52,7 @@ const App = () => {
             <Link to="/Eexchanges">Exchanges</Link>
             <Link to="/news">News</Link>
           </Space>
-        </div>
+        </div> 
       </div>
     </div>
   );
